@@ -4,3 +4,4 @@ number2 = 5
 print(f"Addition of {number1} and {number2} is {number1+number2}")
 print(f"Subtraction of {number1} and {number2} is {number2-number1}")
 print(f"Multiplication of {number1} and {number2} is {number2*number1}")
+print(f"Division of {number1} and {number2} is {number1/number2}")
